@@ -3,4 +3,4 @@ It will include Project 1, 2 and 3. Project 1 will be first, then project 2, the
 I will name the portfolio "Christine's Portfolio Page" to be specific.
 
 Idea for the layout:
-![IMG_0264](https://user-images.githubusercontent.com/97540755/165859778-4e12475f-ef79-4802-9398-54cfb0fda9b1.JPG
+![IMG_0264](https://user-images.githubusercontent.com/97540755/165859911-e72fd17b-0857-4b28-9ec1-e50bf74c803a.JPG)
